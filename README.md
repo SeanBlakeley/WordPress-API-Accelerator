@@ -50,7 +50,7 @@ We use [SemVer](http://semver.org/) for versioning.
 
 ## Authors
 
-* [**Sean Blakeley**](https://www.seanblakeley.co.uk) - *Initial work*
+* [**Sean Blakeley**](http://www.seanblakeley.co.uk) - *Initial work*
 
 ## License
 
